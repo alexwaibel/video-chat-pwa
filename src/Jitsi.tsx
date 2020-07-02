@@ -19,11 +19,8 @@ function Jitsi() {
       const options = {
         roomName: "this-is-a-unique-room-name",
         parentNode: document.getElementById('jitsi-container'),
-        interfaceConfigOverwrite: {
-          filmStripOnly: false,
-        },
         configOverwrite: {
-          disableSimulcast: false,
+          disableDeepLinking: true,
         },
       };
 
