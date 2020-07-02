@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/video-chat-pwa/static/css/main.5f361e03.chunk.css",
-    "main.js": "/video-chat-pwa/static/js/main.ca1a9143.chunk.js",
-    "main.js.map": "/video-chat-pwa/static/js/main.ca1a9143.chunk.js.map",
+    "main.js": "/video-chat-pwa/static/js/main.fb3a15e7.chunk.js",
+    "main.js.map": "/video-chat-pwa/static/js/main.fb3a15e7.chunk.js.map",
     "runtime-main.js": "/video-chat-pwa/static/js/runtime-main.d5f2382f.js",
     "runtime-main.js.map": "/video-chat-pwa/static/js/runtime-main.d5f2382f.js.map",
     "static/js/2.7ff4952f.chunk.js": "/video-chat-pwa/static/js/2.7ff4952f.chunk.js",
     "static/js/2.7ff4952f.chunk.js.map": "/video-chat-pwa/static/js/2.7ff4952f.chunk.js.map",
     "index.html": "/video-chat-pwa/index.html",
-    "precache-manifest.2d57e9c17b33da33e4aa63803f4cf451.js": "/video-chat-pwa/precache-manifest.2d57e9c17b33da33e4aa63803f4cf451.js",
+    "precache-manifest.b60c2afccdbf2d9566d70bc7b419a4e0.js": "/video-chat-pwa/precache-manifest.b60c2afccdbf2d9566d70bc7b419a4e0.js",
     "service-worker.js": "/video-chat-pwa/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/video-chat-pwa/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.7ff4952f.chunk.js.LICENSE.txt": "/video-chat-pwa/static/js/2.7ff4952f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d5f2382f.js",
     "static/js/2.7ff4952f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ca1a9143.chunk.js"
+    "static/js/main.fb3a15e7.chunk.js"
   ]
 }
