@@ -3,8 +3,8 @@ import React, { useState, useEffect } from "react";
 function Jitsi() {
   const [loading, setLoading] = useState(true);
   const containerStyle = {
-    width: "800px",
-    height: "400px",
+    width: "100%",
+    height: "700px",
   };
 
   const jitsiContainerStyle = {
